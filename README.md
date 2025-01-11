@@ -11,7 +11,7 @@ Este es un simple keylogger implementado en Python que registra las teclas presi
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.10
 - pynput
 
 ## Instalación
